@@ -1,0 +1,29 @@
+{
+    "client": {
+        "docNumber": "1234",
+        "firstName": "Mile",
+        "lastName": "Torres",
+        "dateOfBirth": "01/16/1993",
+        "gender": "female",
+        "email": "milexa.torres@gmail.com",
+        "phoneNumber": "+51 923795254"
+    },
+    "client2": {
+        "docNumber": "4567",
+        "firstName": "Rawin",
+        "lastName": "Olivera",
+        "dateOfBirth": "05/17/1990",
+        "gender": "male",
+        "email": "rawin.olivera@gmail.com",
+        "phoneNumber": "+51 993756564"
+    },
+    "client3": {
+        "docNumber": "7890",
+        "firstName": "Yanitza",
+        "lastName": "Torbello",
+        "dateOfBirth": "12/10/1970",
+        "gender": "female",
+        "email": "yanitza.torbello@gmail.com",
+        "phoneNumber": "+58 4148327658"
+    }
+  }
