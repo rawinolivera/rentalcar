@@ -4,8 +4,8 @@ const doc = {
     title: "Rentalcar",
     description: "Booking API for rental car services",
   },
-  host: "localhost:3000",
-  schemes: ["http"],
+  host: "rentalcar.onrender.com",
+  schemes: ["https"],
 };
 
 const outputFile = "./swagger.json";
