@@ -12,7 +12,7 @@ router.get('/:id', clientController.getSingle);
 
 router.post('/', validateCreate, clientController.newClient);
 
-router.put('/:id', clientController.updateClient);
+router.put('/:id', validateCreate, clientController.updateClient);
 
 router.delete('/:id', clientController.deleteClient);
 
