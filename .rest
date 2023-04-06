@@ -1,1 +1,20 @@
 GET http://localhost:3000/client
+
+###
+GET  http://localhost:3000/client/641f30fe2cb141b17d200e4d
+content-type: application/json
+
+###
+
+POST http://localhost:3000/client
+content-type: application/json
+
+{
+        "docNumber": "1051565",
+        "firstName": "Mi533",
+        "lastName": "Tor8953s",
+        "dateOfBirth": "01/16/1993",
+        "gender": "female",
+        "email": "milexaail.com",
+        "phoneNumber": "+51 923795254"
+    }
